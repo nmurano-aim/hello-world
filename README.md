@@ -3,6 +3,4 @@
 Gitチュートリアル
 
 hello
-asdfasdf
-
-byebye
+barブランチの変更
